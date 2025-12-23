@@ -38,7 +38,7 @@ function renderList() {
 
 // Mengatur Mode Tampilan (Countdown vs Info Tanggal Statis)
 function updateViewMode() {
-  // Menggunakan fungsi helper isToday dari
+  // Menggunakan fungsi helper isToday dar
   const isCurrentDay = isToday(selectedDateObj);
 
   if (isCurrentDay) {

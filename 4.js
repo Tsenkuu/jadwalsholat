@@ -1,4 +1,4 @@
-// === BAGIAN bagas ===
+// === BAGIAN BAGUS ===
 // Bertanggung jawab Inisialisasi Event Listener dan Menjalankan Aplikasi
 
 function initEventListeners() {
