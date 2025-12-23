@@ -48,7 +48,7 @@ async function fetchJadwal() {
 
             // Update Info Tanggal Hijriyah
             elHijri.textContent = `${dateInfo.hijri.day} ${dateInfo.hijri.month.en} ${dateInfo.hijri.year} H`;
-            
+
             // Simpan data sholat ke variabel global
             prayerTimes = {
                 'Subuh': timings.Fajr,
