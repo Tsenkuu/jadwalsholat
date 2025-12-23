@@ -17,7 +17,7 @@ function initCityOptions() {
 function renderList() {
   elList.innerHTML = "";
 
-  // Menggunakan prayerTimes dari Bagus.js //Oke
+  // Menggunakan prayerTimes dari Bagus.js //Oke anjay mabar
   Object.keys(prayerTimes).forEach((name) => {
     const time = prayerTimes[name];
 
