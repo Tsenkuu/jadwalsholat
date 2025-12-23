@@ -1,4 +1,4 @@
-// === BAGIAN1111 ===
+// === BAGIAN BAGUS ===
 // Bertanggung jawab atas Data, Variabel Global, dan API
 
 // 1. Daftar Kota
